@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, BMICalculatorActivity!</string>
+    <string name="app_name">ObesityCheck</string>
+    <string name="about">BMI for adults
+. The following table shows the meaning of your calculated BMI value. The table covers adults between 19 and 70 years.</string>
+
+</resources>
